@@ -1,4 +1,4 @@
-# CSGO Computer vision assist
+# CSGO Computer Vision (WIP)
 
 In this repository you can find models of csgo objects using cascade classifiers.
 
